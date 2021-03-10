@@ -142,5 +142,9 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 66. *Properties of simulated galaxies and supermassive black holes in cosmic voids*, Habouzit, Pisani et al. [arXiv](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..899H/abstract)
 
+#### 67. *SuperFaB: a fabulous code for Spherical Fourier-Bessel decomposition*, Grasshorn Gebhardt, Doré [arXiv](https://arxiv.org/abs/2102.10079)
+
+#### 68. *Information Content of Higher-Order Galaxy Correlation Functions*, Samushia, Slepian, Villaescusa-Navarro [arXiv](https://arxiv.org/abs/2102.01696)
+
 ---
 
